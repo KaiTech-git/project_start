@@ -1,1 +1,1 @@
-princomp("laczymy")
+print("laczymy")
